@@ -26,7 +26,6 @@
    <input type="checkbox" id="city" value="Bangalore">Bangalore<br><br>
    <input type="submit">
    
-
-<form>
-<body>
-<html>
+ </form>
+</body>
+</html>

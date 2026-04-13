@@ -21,9 +21,7 @@
             <input type="radio" id="male" name="gender" value="Male">Male<br><br>
             <label>Birthday:</label><br>
             <input type="date" id="birthday" name="birthday"><br><br>
+        </fieldset>
     </form>
-    </fieldset>
-    <form>
-
-        <body>
-            <html>
+ </body>
+</html>
